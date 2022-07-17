@@ -149,9 +149,9 @@
   "id": "unethicalautologin-plugin",
   "releases": [{
     "date": "2022-07-17",
-    "sha512sum": "C6236E8BE6BF0D701771996ABC016D111A47A78279D87EBF582FF67B2BA5D5982F91B670554BD6619D7A81A396A2872AF3BD8A8C8E600B916A12FC5BAFEC3271",
-    "version": "0.5.1",
-    "url": "https://raw.githubusercontent.com/zmike808/unethicalite-plugins-release/master/unethical-autologin-0.5.1.jar",
+    "sha512sum": "44DCFC350FEAF13091A666CC4E186408E0003E1949869276854D1D44196AE4721A7B7A78CEA461C058B8808FEDAFE6B76716567DC1A7E2CD2BCB1427DD2466E5",
+    "version": "0.5.2",
+    "url": "https://raw.githubusercontent.com/zmike808/unethicalite-plugins-release/master/unethical-autologin-0.5.2.jar",
     "requires": "^1.0.0"
   }]
 }, {
